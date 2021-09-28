@@ -2,6 +2,10 @@
 # Created: 3/9/2018
 # Project : TomatoClock
 
+# from anki.sync import os
+
+from .kkLib import MetaConfigObj
+# path_join = os.path.join
 
 from .kkLib import MetaConfigObj
 
